@@ -13,3 +13,16 @@ Repetição de imagem: (a partir do canto superior direito)
 				                repeat-x;	         -> repetição na horizontal
 				                repeat-y	         -> repetição na vertical
 
+ NÃO ESQUEÇA:
+
+Posição da imagem:
+
+	background-position:     posição horizontal     posição vertical	
+
+ Ex:	    background-position: left top;		-> esquerda topo
+	    Background-position: left center;		-> esquerda centro
+            background-position: right bottom;	-> direita embaixo
+            background-position: center center;	-> centro centro
+
+ Obs:	vh	->	altura da view port (height)
+	        vw	->	largura da view port (width)
